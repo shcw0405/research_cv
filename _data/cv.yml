@@ -13,30 +13,29 @@
 - title: Education / 教育经历
   type: time_table
   contents:
-    - title: Ph.D. in Computer Science (in progress)
+    - title: Ph.D. in Computer Science (Incoming)
       institution: Computer Network Information Center, Chinese Academy of Sciences, Beijing, China
-      year: 2024 - now
+      year: 2025 - now
       description:
-        - Advised by Prof. Hengshu Zhu
+        - Advisor: Prof. <a href="https://www.bigdatamining.cn/index.html">Hengshu Zhu</a>
         - Research Lab: CNIC Data Science Lab (CNIC-DSL)
         - Research interests: Responsible AI, LLM Unlearning, Recommender Systems
-    - title: B.S. in Computer Science
+    - title: B.S. in Computer Science (Expected Jun 2025)
       institution: Jilin University, Changchun, China
-      year: 2020 - 2024
+      year: 2021 - 2025
       description:
         - Tang Aoqing Honors Program in Science (唐敖庆理科试验班)
-        - School of Computer Science
+        - School of Computer Science and Technology
 
 - title: Research Experience / 研究经历
   type: time_table
   contents:
-    - title: PhD Researcher
-      institution: CNIC-DSL, Chinese Academy of Sciences
-      year: 2024 - now
+    - title: Research Intern
+      institution: CNIC Data Science Lab (DSL), Chinese Academy of Sciences, Beijing
+      year: Mar 2026 - now
       description:
-        - Responsible AI
-        - LLM Unlearning
-        - Recommender Systems
+        - Supervisor: Prof. Hengshu Zhu
+        - Working on Responsible AI and LLM-related research
 
 - title: Research Interests / 研究兴趣
   type: nested_list
