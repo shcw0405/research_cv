@@ -440,11 +440,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/research_cv/books/the_godfather/";
-            },},{id: "news-graduated-with-b-s-in-computer-science-from-jilin-university-tang-aoqing-honors-program-吉林大学唐敖庆理科试验班本科毕业",
-          title: '🎓 Graduated with B.S. in Computer Science from Jilin University (Tang Aoqing Honors...',
+            },},{id: "news-confirmed-ph-d-admission-at-cnic-dsl-chinese-academy-of-sciences-advised-by-prof-hengshu-zhu-确定直博中科院网络中心-师从祝恒书老师",
+          title: '🎉 Confirmed Ph.D. admission at CNIC-DSL, Chinese Academy of Sciences, advised by Prof....',
           description: "",
-          section: "News",},{id: "news-started-my-phd-journey-at-cnic-dsl-chinese-academy-of-sciences-advised-by-prof-hengshu-zhu-开启中科院网络中心直博生涯",
-          title: '🎉 Started my PhD journey at CNIC-DSL, Chinese Academy of Sciences, advised by...',
+          section: "News",},{id: "news-started-internship-at-cnic-data-science-lab-dsl-chinese-academy-of-sciences-开始在中科院网络中心数据科学实验室-dsl-实习",
+          title: '🔬 Started internship at CNIC Data Science Lab (DSL), Chinese Academy of Sciences....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
