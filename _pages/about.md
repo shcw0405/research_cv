@@ -2,16 +2,19 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: >
+  PhD Student @ <a href="https://www.bigdatamining.cn/index.html" target="_blank">CNIC-DSL</a>, 
+  <a href="http://www.cnic.cn" target="_blank">Computer Network Information Center, Chinese Academy of Sciences</a>
+  | Advised by Prof. <a href="https://www.bigdatamining.cn/index.html" target="_blank">Hengshu Zhu</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>📧 shaohuacongwen@gmail.com</p>
+    <p>🏢 CNIC, Chinese Academy of Sciences</p>
+    <p>📍 Beijing, China</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +25,21 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am **Xu Cai (蔡旭)**, a PhD student at the [Computer Network Information Center (CNIC)](http://www.cnic.cn), Chinese Academy of Sciences, advised by Prof. [Hengshu Zhu](https://www.bigdatamining.cn/index.html) in the [Data Science Lab (CNIC-DSL)](https://www.bigdatamining.cn/index.html).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research interests are centered on **Responsible AI**, with a focus on understanding and improving the trustworthiness, safety, and societal impact of machine learning systems. I have previously worked on **Recommender Systems** and **LLM Unlearning** — exploring how large language models can selectively forget information to protect privacy and enhance reliability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my B.S. from the **Tang Aoqing Honors Program in Science**, School of Computer Science, [Jilin University](https://www.jlu.edu.cn/).
+
+---
+
+我是**蔡旭**，中科院网络信息中心直博生，师从[祝恒书](https://www.bigdatamining.cn/index.html)老师，所在实验室为 [CNIC-DSL](https://www.bigdatamining.cn/index.html)。
+
+目前主要的研究兴趣是 **Responsible AI（负责任人工智能）**，此前从事过**推荐系统**和**LLM Unlearning（大语言模型遗忘）**相关工作。
+
+本科就读于**吉林大学计算机科学学院唐敖庆理科试验班**。
